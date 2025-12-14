@@ -169,7 +169,7 @@ BEST MODEL: SVM
 
 ---
 
-## ▶️ How to Run
+## ▶️ Necessary Modules to run
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn shap kagglehub
@@ -194,3 +194,4 @@ AI Engineering | Machine Learning | Data Science
 ---
 
 ⭐ If you find this project useful, consider starring the repository!
+
